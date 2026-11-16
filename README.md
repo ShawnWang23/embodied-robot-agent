@@ -1,5 +1,7 @@
 # 室内机器人长程任务执行 Agent
 
+[![CI](https://github.com/ShawnWang23/embodied-robot-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/ShawnWang23/embodied-robot-agent/actions/workflows/ci.yml)
+
 这是一个分阶段开发的 ROS2 + LLM 室内机器人 Agent。当前已完成 Phase 1 的任务管理核心、
 Phase 2 的受控仿真集成、Phase 3 Agent 集成、Phase 4 闭环异常恢复、Phase 5
 多模态感知、持久化任务服务、可靠性评估、Phase 8 最终交付和受预算约束的闭环重规划：
