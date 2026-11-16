@@ -1,0 +1,31 @@
+[
+  {
+    "name": "start",
+    "aliases": ["起点", "出发点", "starting point"],
+    "x": -2.0,
+    "y": -0.5,
+    "yaw": 0.0
+  },
+  {
+    "name": "laboratory_door",
+    "aliases": ["实验室门口", "实验室入口", "lab door", "laboratory entrance"],
+    "x": -1.2,
+    "y": -0.5,
+    "yaw": 0.0,
+    "fallback_location": "corridor_observation"
+  },
+  {
+    "name": "meeting_room",
+    "aliases": ["会议室", "meeting room"],
+    "x": -0.8,
+    "y": 0.2,
+    "yaw": 0.0
+  },
+  {
+    "name": "corridor_observation",
+    "aliases": ["走廊另一侧", "走廊观察点", "other side of the corridor"],
+    "x": -1.5,
+    "y": 0.5,
+    "yaw": 0.0
+  }
+]
